@@ -1,0 +1,4 @@
+rootProject.name = 'multiplatform-core'
+
+
+enableFeaturePreview('GRADLE_METADATA')

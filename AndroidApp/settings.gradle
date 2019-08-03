@@ -1,0 +1,4 @@
+include ':app'
+
+include ':multicore'
+project(':multicore').projectDir = new File(settingsDir, '../multiplatform-core')
